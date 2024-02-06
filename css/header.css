@@ -1,0 +1,8 @@
+header .container		{display: flex;
+						justify-content: space-around;
+						padding: 20px 0px;}
+
+header .nadpis-hledani h1	{font-size: 60px;
+							margin: 6px;}
+
+header		{background-color: rgba(0, 0, 0, 0.237);}

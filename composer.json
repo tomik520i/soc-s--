@@ -1,0 +1,10 @@
+{
+    "require": {
+        "tinymce/tinymce": "^6.7",
+        "tweeb/tinymce-i18n": "^2.0",
+        "edsdk/flmngr-server-php": "^1.6",
+        "twbs/bootstrap": "^5.3",
+        "primakurzy/shortcode": "^1.0",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

@@ -1,0 +1,49 @@
+section .pridavani		{display: flex;
+						justify-content: center;
+						padding: 20px;
+						flex-direction: column;}
+
+section .komentar		{display: flex;
+						padding-left: 100px;}
+
+section .komentare		{padding-left: 100px;
+						padding-top: 0px 5px;}
+
+section .infokomentare	{display: flex;
+						padding: 10px 0px;}
+
+section .obsahKomentare	{font-weight: bold;}
+
+
+section .prispevek		{display: flex;
+						padding-left: 50px;
+						flex-direction: column;}
+	
+section .obsahPrispevku		{padding-top: 0px 5px;
+							font-weight: bold;}
+	
+section .infoPrispevku	{display: flex;
+						padding: 10px 0px;}
+
+section .cas	{padding-left: 60px;}
+
+section .fotkyPrispevku	{display: flex;
+						flex-wrap: wrap;
+						padding: 10px;}
+
+section .fotkyPrispevku img {padding: 10px;}
+
+section summary		{font-size: 20px;}
+
+section .celyprispevek	{border: 1px solid black;
+						margin: 15px;
+						padding: 5px;
+						background-color: rgba(0, 0, 0, 0.237);
+						border-radius: 20px;}
+
+@media (max-width: 800px){
+
+textarea		{width: 95%;}
+
+}
+
